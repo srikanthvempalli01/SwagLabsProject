@@ -1,0 +1,6 @@
+com\SwagLabs\PageObjects\LoginPage.class
+com\SwagLabs\TestCases\TC_TestCaseLogin_001.class
+com\SwagLabs\TestCases\BaseClass.class
+com\SwagLabs\Utilities\XLUtils.class
+com\SwagLabs\Utilities\Reporting.class
+com\SwagLabs\Utilities\ReadConfig.class
